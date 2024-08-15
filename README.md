@@ -1,6 +1,6 @@
 # Predict stock market prices using RNN
 
-Author: Suraj Kumar 22M0014@iitb.ac.in
+Author: Abhishek Verma 23m0031
 
 # **Problem Statement:**
 Stock Price Prediction using Recurrent Neural Networks (RNN) with LSTM Architecture
